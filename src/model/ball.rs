@@ -1,6 +1,7 @@
 use ggez::{Context, GameResult, graphics::{self, Rect, DrawMode, Color, DrawParam}};
 use ggez::mint::{Vector2, Point2};
-use crate::constants::*;
+use crate::model::constants::*;
+
 
 pub struct Ball {
     pub rect: Rect,

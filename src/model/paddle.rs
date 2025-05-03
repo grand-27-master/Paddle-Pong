@@ -1,6 +1,6 @@
 use ggez::{Context, GameResult, graphics::{self, Rect, DrawMode}};
-use crate::constants::*;
-use crate::utils::clamp;
+use crate::model::constants::*;
+use crate::model::utils::clamp;
 
 pub struct Paddle {
     pub rect: Rect,

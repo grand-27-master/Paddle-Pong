@@ -1,4 +1,4 @@
-use pong_game::utils::{clamp, rects_intersect};
+use pong_game::model::utils::{clamp, rects_intersect};
 use ggez::graphics::Rect;
 
 #[test]

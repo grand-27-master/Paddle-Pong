@@ -10,12 +10,11 @@ The ball is rendered as a rotating circle, it bounces off all walls and your pad
 - **GUI window** 800 × 600 px  
 - **Paddle** you control with Left/Right arrow keys  
 - **Ball**  
-  - Diameter: 30 px  
   - Rotates continuously  
   - Bounces off left, right, and top walls  
   - Bounces off your paddle  
 - **Score counter** increments on each paddle bounce  
-- **Lives counter** starts at 3, decrements on each miss  
+- **Lives counter** starts at 5, decrements on each miss  
 - **Game over** when lives drop to zero  
 
 ---
