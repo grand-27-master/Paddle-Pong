@@ -1,6 +1,6 @@
 # Paddle Pong
 
-A simple, modular Pong clone written in Rust using the [ggez](https://ggez.rs/) game framework.  
+A simple, modular Pong game written in Rust using the [ggez](https://ggez.rs/) game framework.  
 The ball is rendered as a rotating circle, it bounces off all walls and your paddle, and you earn points for each successful hit. You start with 5 lives, and the game ends when you run out.
 
 ---
